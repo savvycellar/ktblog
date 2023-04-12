@@ -1,0 +1,28 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Our Adventures
+    entries:
+      - title: github repo
+        url: https://github.com/riggraz/no-style-please
+
+  - title: 2023
+    post_list:
+      category: year_2023
+
+  - title: 2022
+    post_list:
+      category: year_2022
+
+  - title: 2021
+    post_list:
+      category: year_2021
+
+  - title: 2020
+    post_list:
+      category: year_2020
+
+  - title: 2019
+    post_list:
+      category: year_2019
