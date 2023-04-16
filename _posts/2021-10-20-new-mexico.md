@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Mexico"
+title: "New Mexico Hot Air Balloon"
 category: [year_2021]
 ---
 Oct 20 - 27

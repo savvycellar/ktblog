@@ -11,4 +11,5 @@ Our second white water rafting trip this summer.
 _You and I both fell out of the raft at Rock Garden rapids_
 
 ![](images/whitewaterrafting2.jpg)
+_Peaceful scenery in between the rapids_
 
