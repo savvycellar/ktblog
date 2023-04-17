@@ -3,7 +3,7 @@ layout: page
 title: Thank you
 ---
 
-This entire webiste is dedicated to you.
+This entire website is dedicated to you.
 
 I feel very lucky to be able to go to so many fun places with you, many of which I would not have gone to without you.
 
