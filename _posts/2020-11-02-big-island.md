@@ -48,7 +48,7 @@ _Two Ladies Kitchen's mochi_
 _Entrance to the pitch dark Kaumana Caves_
 
 ![](images/hawaii11.jpg)
-_Waipi'o Valley. I can imagine dinosaurs roaming here_
+_Waipi'o Valley. So fun crossing the river_
 
 ![](images/hawaii12.jpg)
 _We would buy these papayas from road side stalls, 3 for $5. Ate it with yogurt, passionfruit and granola_
