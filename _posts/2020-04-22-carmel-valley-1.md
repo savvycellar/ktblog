@@ -11,4 +11,4 @@ Our Airbnb was very nice, quiet and remote. I have never seen so many wild flowe
 _Loved our airbnb in a very foresty part of Carmel Valley_
 
 ![](images/carmelvalley3.jpg)
-_Super bloom of wild California Lupine we saw on our hike_
+_Wild California Lupine we saw on our hike_
